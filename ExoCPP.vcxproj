@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exo1.cpp" />
+    <ClCompile Include="Exo10.cpp" />
     <ClCompile Include="Exo2.cpp" />
     <ClCompile Include="Exo3.cpp" />
     <ClCompile Include="Exo4.cpp" />
@@ -135,10 +136,12 @@
     <ClCompile Include="Exo6.cpp" />
     <ClCompile Include="Exo7.cpp" />
     <ClCompile Include="Exo8.cpp" />
+    <ClCompile Include="Exo9.cpp" />
     <ClCompile Include="ExoCPP.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exo1.h" />
+    <ClInclude Include="Exo10.h" />
     <ClInclude Include="Exo2.h" />
     <ClInclude Include="Exo3.h" />
     <ClInclude Include="Exo4.h" />
@@ -146,6 +149,7 @@
     <ClInclude Include="Exo6.h" />
     <ClInclude Include="Exo7.h" />
     <ClInclude Include="Exo8.h" />
+    <ClInclude Include="Exo9.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

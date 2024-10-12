@@ -1,6 +1,6 @@
-#include "Exo7.h"
+#include "Exo10.h"
 
 int main()
 {
-	Exercice7();
+	Exercice10();
 }
