@@ -1,6 +1,6 @@
-#include <iostream>
+#include "Exo7.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	Exercice7();
 }
